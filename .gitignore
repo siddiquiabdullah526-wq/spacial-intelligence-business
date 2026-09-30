@@ -1,0 +1,18 @@
+# Data and secrets: never commit these
+data/*
+!data/.gitkeep
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
