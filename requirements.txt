@@ -1,0 +1,12 @@
+anthropic
+python-dotenv
+langchain
+langchain-anthropic
+pandas
+geopandas
+shapely
+osmnx
+scikit-learn
+pulp
+plotly
+dash
