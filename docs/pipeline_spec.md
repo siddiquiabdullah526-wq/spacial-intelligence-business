@@ -1,8 +1,5 @@
 # Pipeline Architecture Spec: Spatial Intelligence for Business
 
-
----
-
 ## 1. Overview
 
 The pipeline turns raw spatial data into a plain-English business recommendation in four stages. Each of the three research tracks (SI-1, SI-2, SI-3) plugs into the same pipeline, so they all produce outputs in the same format.
