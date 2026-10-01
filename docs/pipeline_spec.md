@@ -1,8 +1,5 @@
 # Pipeline Architecture Spec: Spatial Intelligence for Business
 
-**Status:** DRAFT v0.2, for team discussion
-**Author:** Abdullah (Integration and LLM Engineer)
-**Purpose:** A starting design for the team to react to at the first meeting. Nothing here is final.
 
 ---
 
