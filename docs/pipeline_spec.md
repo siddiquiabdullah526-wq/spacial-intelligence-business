@@ -1,9 +1,15 @@
-# Pipeline Architecture Spec (DRAFT v0.1 - for team feedback)
+# Pipeline Architecture Spec: Spatial Intelligence for Business
 
 ## Stage 1: Spatial Data Layer
 - Sources: U.S. Census Bureau (ACS), OpenStreetMap (OSMnx), Google Places, Esri Living Atlas
 - Shared format: GeoPandas GeoDataFrame, CRS EPSG:4326 for storage, EPSG:3310 (California Albers) for distance/area work
 - Raw data lives in /data (gitignored); code to fetch it lives in each track folder
+
+1. Overview
+
+The pipeline turns raw spatial data into a plain-English business recommendation in four stages. Each of the three research tracks (SI-1, SI-2, SI-3) plugs into the same pipeline, so they all produce outputs in the same format.
+
+
 
 ## Stage 2: SI Engine (one module per track)
 Each module returns a dict:
