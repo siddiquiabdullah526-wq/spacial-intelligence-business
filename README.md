@@ -1,6 +1,6 @@
 # Spatial Intelligence for Business
 
-Singelyn Center Faculty Fellow project (Sept 2026 - April 2027).
+Faculty Led Research Project (Sept 2026 - April 2027).
 Combines GIS with large language models (Claude API) to turn spatial data into
 clear, actionable business recommendations. Southern California is the testbed.
 
